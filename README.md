@@ -1,7 +1,6 @@
 # SQL_project
 Advanced SQL Project using NorthWind & Airline Database | Real-world business queries solved using JOIN, CTE, Aggregation, Window Functions, and more.
 # SQL Project: NorthWind Business Insights
-
 This project contains real-world SQL queries written on the **NorthWind Database**, designed to demonstrate data analysis, reporting, and business intelligence using SQL.
 
 ## Skills & Concepts Used
@@ -24,15 +23,11 @@ This project contains real-world SQL queries written on the **NorthWind Database
 6. **Employee performance by sales**
 7. **Sales by Region using JOINs and GROUP BY**
 8. **Use of WINDOW function to rank orders**
-
+9. 
 ## Tools & Technology
-
 - SQL Server / PostgreSQL / MySQL (works on all)
 - NorthWind sample database
-
-
 ---
-
 ## Let’s Connect
 
 🔗 [LinkedIn – Aman Barthria](https://www.linkedin.com/in/aman-barthria/)  
