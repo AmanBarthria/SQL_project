@@ -6,7 +6,7 @@ This project contains real-world SQL queries written on the **NorthWind Database
 ## Skills & Concepts Used
 
 - INNER JOIN / LEFT JOIN
--  GROUP BY & Aggregation (SUM, COUNT, AVG)
+-  GROUP BY & Aggregation (SUM, COUNT, AVG, MAX, MIN)
 -  WHERE, ORDER BY, HAVING
 -  Common Table Expressions (CTE)
 -  WINDOW Functions (ROW_NUMBER, RANK, etc.)
