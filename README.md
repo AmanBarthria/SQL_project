@@ -22,8 +22,7 @@ This project contains real-world SQL queries written on the **NorthWind Database
 5. **Customers who haven’t ordered in last 6 months**
 6. **Employee performance by sales**
 7. **Sales by Region using JOINs and GROUP BY**
-8. **Use of WINDOW function to rank orders**
-9. 
+8. **Use of WINDOW function to rank orders** 
 ## Tools & Technology
 - SQL Server / PostgreSQL / MySQL (works on all)
 - NorthWind sample database
