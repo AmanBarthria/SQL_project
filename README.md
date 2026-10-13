@@ -24,12 +24,15 @@ The projects focus on answering business questions, summarizing data, identifyin
 ## 3. Datasets and Project Areas
 
 ### Northwind Database
+
 Practice business questions involving customers, orders, products, categories, employees, and sales, depending on the available database schema.
 
 ### Airline Database
+
 SQL practice involving airline-related records and analytical questions supported by the available tables.
 
 ### Online Retail Dataset
+
 Advanced SQL practice involving products, categories, customers, orders, and order items, subject to the available schema.
 
 ## 4. Northwind — Business Questions
@@ -82,7 +85,7 @@ These analyses use techniques such as CTEs, joins, aggregation, and window funct
 
 ## 7. SQL Query Files
 
-- [Online Retail Advanced SQL Queries](online_retail_advanced_queries.sql)
+- [Online Retail Advanced SQL Queries](online_retail_advanced_queries_others.sql)
 
 Open the SQL file to review the queries. Execute them against a compatible database with the required tables and columns.
 
